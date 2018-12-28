@@ -1,4 +1,4 @@
-module github.com/philchia/agollo
+module github.com/xujintao/agollo
 
 require (
 	github.com/mitchellh/mapstructure v1.1.2
